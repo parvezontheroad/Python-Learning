@@ -1,6 +1,6 @@
-total = 0
-for i in range(1, 21):
+total = 2
+for i in range(1, 10):
     if i % 2 == 0:
-        total = total + i   
+        total = total * i   
         
 print(total)
