@@ -11,4 +11,4 @@ elif number>=40:
     print("C")
 elif number>=33:
     print("D")
-else: print("fail")
+else: print("cr7 at world cup")
